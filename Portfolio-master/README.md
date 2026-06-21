@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="" target="_blank">soumyajit.tech</a> 
+  <a href="" target="_blank"></a> 
   <!-- add live project url -->
 </h2>
 <div align="center">
